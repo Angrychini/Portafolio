@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';
@@ -13,4 +14,21 @@
 
 	#viewer {
 		width: 100%;
+=======
+@import 'libs/vars';
+@import 'libs/functions';
+@import 'libs/mixins';
+@import 'libs/skel';
+
+/*
+	Lens by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
+/* Viewer */
+
+	#viewer {
+		width: 100%;
+>>>>>>> 01331a19749eab212d28af6e118c297312de7719
 	}

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import '../libs/vars';
 @import '../libs/functions';
 @import '../libs/mixins';
@@ -17,4 +18,25 @@
 			font-size: 2.25em;
 			font-weight: _font(weight-bold);
 		}
+=======
+@import '../libs/vars';
+@import '../libs/functions';
+@import '../libs/mixins';
+
+///
+/// Lens by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Header */
+
+	#header {
+		@include padding(3em, 2.25em);
+
+		h1 {
+			font-size: 2.25em;
+			font-weight: _font(weight-bold);
+		}
+>>>>>>> 01331a19749eab212d28af6e118c297312de7719
 	}
